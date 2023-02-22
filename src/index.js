@@ -13,5 +13,5 @@ root.render(
 
 // If you wantsvfvsfvfss to start measuring performance in your app, pass a function
 // to log results (for example: cdsvsdfvreportWebVitals(console.log))
-// or send to an analytvsvdfgvsetgcetics endpfvfdgvgbvdoint. Learn more: https://bit.ly/CRA-vitals
+// or send to an analytvsvdfgvsetgcetics endsvdgvetpfvfdgvgbvdoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
